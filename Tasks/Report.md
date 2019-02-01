@@ -7,7 +7,7 @@ Based Learning,
 - (3p) Font size 12, Font type is times new roman, single space between lines.
 - (1p) All paragraphs must Text Justified.
 - (2p) Pages are numbered
-- (3p) Report sections:
+# (3p) Report sections:
 - Planning and Scheduling
 - Teamwork Basics
 - Raspberry PI Installation and ARM Assembly Programming
