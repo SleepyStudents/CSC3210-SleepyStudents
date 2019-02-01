@@ -13,3 +13,4 @@ Based Learning,
 - Raspberry PI Installation and ARM Assembly Programming
 - Appendix: have the links (slack, GitHub and video links and screenshot) here
 - (2p) All text must be produced on a word processor and convert it to PDF format.
+
