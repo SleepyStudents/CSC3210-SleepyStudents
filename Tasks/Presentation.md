@@ -6,4 +6,4 @@
 - https://www.youtube.com/watch?v=b38ef8n1p4U
 - Use this channel for uploading future videos.
 
-YT Channel Address:
+YT Channel Address: https://www.youtube.com/channel/UC0ftj2YERWyMhh1P4XxqmyQ?view_as=subscriber
