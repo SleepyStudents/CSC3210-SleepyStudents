@@ -14,5 +14,3 @@ Based Learning,
 - Appendix: have the links (slack, GitHub and video links and screenshot) here
 - (2p) All text must be produced on a word processor and convert it to PDF format.
 
-Note: You can write in a word doc and then copy and paste it into this file under your selected section. Try to make your section descriptive of the process, fulfilling the requirements specified: What you have done and what you have observed, including screenshots (if this applies to your section). 
-1/4 of a page to 1/2 of a page is fine.
