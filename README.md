@@ -15,4 +15,4 @@ Tools
 
 Learned
 --------
-We learned how ARM assembly is different to Intel's x86 & x86_64 assembly. We also learned how multithreading interfaces, like OpenMP, handled parallel programming (master & workers)
+We learned how ARM assembly is different to Intel's x86 & x86_64 assembly. We also learned how multithreading interfaces, like OpenMP, handled parallel programming (master & workers).
